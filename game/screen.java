@@ -1,5 +1,3 @@
-package com.telescope.game;
-
 
 import java.util.Scanner;
 
