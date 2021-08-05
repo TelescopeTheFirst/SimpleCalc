@@ -1,4 +1,4 @@
-package com.telescope.game;
+
 
 public class welcome {
     public void greet() {
